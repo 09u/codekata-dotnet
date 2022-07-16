@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./codekata.png" width="500"/>
+    <img src="./codekata.png" width="2000"/>
 </p>
 
 # **What is a Code Kata?**
