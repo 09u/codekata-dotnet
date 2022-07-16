@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="./codekata.png" width="500"/>
+</p>
+
 # **What is a Code Kata?**
 
 * A practical exercise in programming that helps you improve your abilities through repetition.
