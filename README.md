@@ -21,6 +21,7 @@ I do and I understand. <br>
 
 * [Fibonacci Kata](./kata/fibonacci) - Practice and learn
 * [Fizz Buzz Kata](./kata/fizzbuzz) - Practice and learn
+* [Leap Year Kata](./kata/leapyear) - Practice and learn
 
 
 ## Other Katas
