@@ -20,6 +20,7 @@ I do and I understand. <br>
 ## Kata
 
 * [Fibonacci Kata](./kata/fibonacci) - Practice and learn
+* [Fizz Buzz Kata](./kata/fizzbuzz) - Practice and learn
 
 
 ## Other Katas
